@@ -1,0 +1,6 @@
+{
+  "name": "my-validator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "private": true
+}
